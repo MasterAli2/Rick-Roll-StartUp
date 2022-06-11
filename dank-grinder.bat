@@ -8,5 +8,3 @@ echo start https://www.youtube.com/watch?v=xvFZjo5PgG0>"%userprofile%\AppData\Ro
 
 start https://www.youtube.com/watch?v=xvFZjo5PgG0
 ::: rickroll the user
-
-::: you can also change link if u want to 
